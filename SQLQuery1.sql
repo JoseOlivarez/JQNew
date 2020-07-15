@@ -1,0 +1,1 @@
+﻿INSERT INTO JQNew.dbo.access(jobnum) VALUES('9') GO;
